@@ -18,10 +18,10 @@ The project showcases practical penetration testing methodology and clear docume
 - Operating System: Kali Linux (VMware Workstation)  
 - Connection: HackTheBox VPN via OpenVPN  
 - Tools Used:
-  - Nmap → Port scanning & service enumeration  
-  - FTP / SMBClient → Service exploitation  
-  - Telnet → Direct shell access  
-  - Standard Linux utilities → `ls`, `cat`, `get`  
+  - Nmap  Port scanning & service enumeration  
+  - FTP / SMBClient  Service exploitation  
+  - Telnet  Direct shell access  
+  - Standard Linux utilities  `ls`, `cat`, `get`  
 
 
 
