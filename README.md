@@ -28,7 +28,7 @@ The project showcases practical penetration testing methodology and clear docume
  Key Findings
 - Meow (Telnet)  No password required  Immediate root access  
 - Fawn (FTP) Anonymous login enabled  Flag exposed  
-- Dancing (SMB)  Misconfigured file shares → Sensitive data leaked  
+- Dancing (SMB)  Misconfigured file shares  Sensitive data leaked  
 
 
 
